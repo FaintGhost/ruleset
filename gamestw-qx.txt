@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,so-net.tw,台服游戏
+DOMAIN-SUFFIX,kakaogames.com,台服游戏

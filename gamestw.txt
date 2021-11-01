@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,so-net.tw
+  - DOMAIN-SUFFIX,kakaogames.com
