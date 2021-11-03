@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,laodiwx.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-KEYWORD,uni-leipzig
   - IP-CIDR,158.101.157.186/32,no-resolve
