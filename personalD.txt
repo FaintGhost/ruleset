@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,kkredirector.exe
   - PROCESS-NAME,kkproxy.exe
   - PROCESS-NAME,ss_privoxy.exe
+  - DOMAIN-SUFFIX,laodiwx.com
