@@ -1,1 +1,1 @@
-DOMAIN-SUFFIX,laodiwx.com,个人直连
+DOMAIN-SUFFIX,laodiwx.com,ExtraDirect
