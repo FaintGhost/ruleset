@@ -4,6 +4,7 @@ payload:
   - PROCESS-NAME,kkredirector.exe
   - PROCESS-NAME,kkproxy.exe
   - PROCESS-NAME,ss_privoxy.exe
+  - PROCESS-NAME,watchtower
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,qBittorrent
@@ -25,3 +26,9 @@ payload:
   - PROCESS-NAME,transmission-qt.exe
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,WebTorrent.exe
+  - DST-PORT,8086,DIRECT
+  - DST-PORT,7878,DIRECT
+  - DST-PORT,8989,DIRECT
+  - DST-PORT,9117,DIRECT
+  - DST-PORT,5055,DIRECT
+  - DST-PORT,32400,DIRECT
