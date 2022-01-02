@@ -1,3 +1,4 @@
+{% macro main(rule) %}
 # Streaming Media
 # (Live)
 # > Twitch
@@ -333,3 +334,4 @@ DOMAIN-SUFFIX,youtube.com,{{ rule }}
 DOMAIN-SUFFIX,ytimg.com,{{ rule }}
 DOMAIN,youtubei.googleapis.com,{{ rule }}
 DOMAIN,yt3.ggpht.com,{{ rule }}
+{% endmacro %}
