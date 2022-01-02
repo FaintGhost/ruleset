@@ -8,10 +8,10 @@ DOMAIN-SUFFIX,torrentapi.org,{{ rule }}
 DOMAIN-SUFFIX,torlock.com,{{ rule }}
 DOMAIN-SUFFIX,tmdb.org,{{ rule }}
 DOMAIN-SUFFIX,sonarr.tv,{{ rule }}
-IP-CIDR,158.101.157.186/32,no-resolve,{{ rule }}
-IP-CIDR,152.70.110.147/32,no-resolve,{{ rule }}
-IP-CIDR,129.146.173.117/32,no-resolve,{{ rule }}
-IP-CIDR,129.146.243.195/32,no-resolve,{{ rule }}
-IP-CIDR,152.67.198.44/32,no-resolve,{{ rule }}
-IP-CIDR,152.67.208.0/32,no-resolve,{{ rule }}
+IP-CIDR,158.101.157.186/32,{{ rule }},no-resolve
+IP-CIDR,152.70.110.147/32,{{ rule }},no-resolve
+IP-CIDR,129.146.173.117/32,{{ rule }},no-resolve
+IP-CIDR,129.146.243.195/32,{{ rule }},no-resolve
+IP-CIDR,152.67.198.44/32,{{ rule }},no-resolve
+IP-CIDR,152.67.208.0/32,{{ rule }},no-resolve
 {% endmacro %}
