@@ -1,2 +1,3 @@
 .studserv.uni-leipzig.de
+.icloud.com.cn
 imap.gmail.com
