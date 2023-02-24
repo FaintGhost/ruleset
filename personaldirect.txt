@@ -1,1 +1,2 @@
 .studserv.uni-leipzig.de
+imap.gmail.com
