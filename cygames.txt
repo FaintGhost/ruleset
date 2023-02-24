@@ -4,3 +4,4 @@
 
 worldflipper.akamaized.net
 umamusume.akamaized.net
+prd-storage-app-umamusume.akamaized.net
