@@ -1,0 +1,3 @@
+.ai.com
+.openai.com
+openaiapi-site.azureedge.net
