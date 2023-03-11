@@ -1,5 +1,6 @@
-.ai.com
-.openai.com
-openaiapi-site.azureedge.net
-openaicom.imgix.net
-.azurefd.net
+payload:
+- "+.ai.com"
+- "+.openai.com"
+- "+.openaiapi-site.azureedge.net"
+- "+.openaicom.imgix.net"
+- "+.azurefd.net"
