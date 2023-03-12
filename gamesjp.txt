@@ -1,9 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,cygames.jp
-  - DOMAIN-SUFFIX,cygames.co.jp
-  - DOMAIN-SUFFIX,worldflipper.jp
-  - DOMAIN-SUFFIX,mbga.jp
-  - DOMAIN-KEYWORD,worldflipper
-  - DOMAIN-KEYWORD,umamusume
-  - DOMAIN-KEYWORD,a1428
-  - DOMAIN-KEYWORD,e9844

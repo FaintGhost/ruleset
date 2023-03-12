@@ -1,7 +1,0 @@
-DOMAIN-SUFFIX,cygames.jp,日服游戏
-DOMAIN-SUFFIX,worldflipper.jp,日服游戏
-DOMAIN-SUFFIX,mbga.jp,日服游戏
-DOMAIN-KEYWORD,worldflipper,日服游戏
-DOMAIN-KEYWORD,umamusume,日服游戏
-DOMAIN-KEYWORD,a1428,日服游戏
-DOMAIN-KEYWORD,e9844,日服游戏

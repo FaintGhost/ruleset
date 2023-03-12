@@ -1,3 +1,0 @@
-DOMAIN-SUFFIX,v2ex.com,ExtraProxy
-DOMAIN-KEYWORD,uni-leipzig,ExtraProxy
-IP-CIDR,158.101.157.186/32,no-resolve,ExtraProxy
